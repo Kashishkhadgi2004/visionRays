@@ -1,0 +1,190 @@
+body{
+    margin:auto
+}
+a{
+    text-decoration: none;
+}
+header{
+    height:70px;
+    /*border:5px solid blue;*/
+    background-color: #2fcbfa;
+}
+#darkmode{
+    margin-left: 65%;
+}
+ #weather{
+ margin-left:18px;
+ margin-top: -8px;
+}
+#location{
+    margin-left:18px;
+    margin-top:-7px
+   } 
+.glyphicon{
+    margin-left: 15%;
+    
+}
+.loca{
+    margin-left: 65%;
+    float: left;
+}
+#brand{
+    color:#fff;
+    font-size:30px;
+    float:left;
+    margin-top: 1%;
+    margin-left: 1%;
+}
+#social{
+    float:right;
+    margin-top: -15px;
+    margin-right: 1%;
+}
+.socialImg{
+    height:50px;
+}
+#Searchbox{
+    margin-left: 1%;
+    margin-top: 1%;
+}
+#coupon{
+    height: 250px;
+    width: 600px;
+    margin-top:12%;
+    background-image:url('coupen_code.jpg');
+    background-repeat: no-repeat;
+    background-size: 600px 250px;
+    position: absolute;  
+    margin-left: 30%;
+    z-index: 10;
+    display: none;
+}
+#cross{
+    margin-left: 96%;
+    margin-bottom: 20%;
+}
+.tileContainer{
+    float: left;
+    height:200px;
+    width:20%;
+    /* border:2px solid black; */
+    box-shadow: 10px 20px 15px #7ef2ea;
+}
+.tileComponent1{
+    height: 70px;
+    width:100%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+.tileComponent1 img{
+    width:100%;
+    height:180px;
+}
+.slideImg{
+    width:100%;
+    height:400px !important;
+}
+.item{
+    width: 100%;
+}
+#first{
+    height:200px;
+    
+    width: 100%;
+    background-image:url('slider.jpg');
+}
+#second{
+    height:200px;
+    
+    background-color:rgb(148, 224, 234)
+}
+#third{
+    height:200px;
+    width: 100%;
+    background-color:rgb(19, 54, 58)
+}
+#fourth{
+    height:200px;
+    width: 100%;
+    background-color:rgb(93, 38, 64)
+}
+#fifth{
+    height:200px;
+    width: 100%;
+    background-color:rgb(103, 97, 194)
+}
+#QuickHeading{
+    color:#3b2632;
+    display:block;
+    font-size:30px;
+    font-weight:bold;
+    margin-top: 2%;
+    margin-left:2%;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+.trending{
+    float: left;
+    height:200px;
+    width:20%;
+    margin-top: 2%;
+    /* border:2px solid black; */
+    box-shadow: 10px 20px 15px #4d4f4f;
+    margin-bottom: 2%;
+}
+.Quicksubheading{
+    color:#3b2632;
+    display: block;
+    font-size:30px;
+    font-weight:bold;
+    margin-left:2%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+.featured{
+    float: left;
+    height:200px;
+    width:20%;;
+    /* border:2px solid black; */
+    box-shadow: 10px 20px 15px #4d4f4f;
+}
+footer{
+    height: 120px;
+    background-color: #2fcbfa;;
+    color:#fff;
+    text-align: center;
+    margin-top: 15%;
+    width: 100%;
+    display: inline-block;
+}
+.ok{
+    margin-bottom: 2%;
+}
+ul{
+    list-style: none;
+}
+
+.fotDiv{
+    width:31%;
+    float:left;
+    border-right: 2px solid white;
+}
+
+.noBorder{
+    border:none
+}
+.banner {
+    height: 250px;
+
+}
+
+.banner>img {
+    width: 100%;
+    height: 100%;
+}
+/* .tileComponent2{
+    width:45%;
+    float: left;
+    margin-top: 15%;
+    margin-left:2%
+} */
